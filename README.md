@@ -28,7 +28,7 @@
   <li><a href="http://web.stanford.edu/group/wics/">Stanford Women in Computer Science</a></li>
   <li><a href="http://www.xxux.org/">XX+UX</a></li>
   <li><a href="http://airbnb.io/events/taking-flight/">AirBnBNerds Taking Flight</a></li>
-  <li><a href="https://women.acm.org/"></a>ACM-W</li>
+  <li><a href="https://women.acm.org/">ACM-W</a></li>
 </ul>
 
 <h4>*More High School Hackathons</h4>
