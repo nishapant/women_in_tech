@@ -32,7 +32,9 @@
   <li><a href="http://ladieslearningcode.com">Ladies Learning Code</a></li>
 </ul>
 
-<h4>*More High School Hackathons</h4>
+<h3>*More Hackathons</h3>
+<br>
+<h4>High School Hackathons</h4>
 <ul>
   <li><a href="https://www.sohacks.com/">SoHacks</a></li>
   <li><a href="https://hackbca.com/">HackBCA</a></li>
@@ -42,4 +44,21 @@
   <li><a href="http://hacktech.io/">HackTech</a></li>
   <li><a href="http://metrohacks.co/">MetroHacks</a></li>
   <li><a href="http://chicagohacks.tech/">ChiHacks</a></li>
+  <li><a href="http://pixelhacks.com/">PixelHacks</a></li>
+</ul>
+<br>
+<h4>All-Female Hackathons</h4>
+<ul>
+  <li><a href="https://wichacks.io/">WiC Hacks</a></li>
+  <li><a href="http://femmehacks.io/">FemmeHacks</a></li>
+  <li><a href="http://hackhers.us/">HackHERS</a></li>
+  <li><a href="http://wellesleyhacks.org/">WHacks</a></li>
+  <li><a href="http://www.wecodeharvard.com/">wecode</a></li>
+  <li><a href="http://www.hackthepatriarchy.com/">Hack the Patriarchy</a></li>
+  <li><a href="https://www.eventbrite.com/e/women-who-code-silicon-valley-hackathon-2017-tickets-37983282019">Women Who Code</a></li>
+  <li><a href="https://www.ncsudiamondhacks.com/">Diamond Hacks</a></li>
+  <li><a href="http://sisterhacks.co/">Sister Hacks</a></li>
+  <li><a href="http://athenahacks.com/">Athena Hacks</a></li>
+  <li><a href="http://buildher.io/">BUILDher</a></li>
+  <li><a href="http://gotechnica.org/">Technica</a></li>
 </ul>
