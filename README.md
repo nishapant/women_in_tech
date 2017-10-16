@@ -33,7 +33,6 @@
 </ul>
 
 <h3>*More Hackathons</h3>
-<br>
 <h4>High School Hackathons</h4>
 <ul>
   <li><a href="https://www.sohacks.com/">SoHacks</a></li>
