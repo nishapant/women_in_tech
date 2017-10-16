@@ -29,6 +29,7 @@
   <li><a href="http://www.xxux.org/">XX+UX</a></li>
   <li><a href="http://airbnb.io/events/taking-flight/">AirBnBNerds Taking Flight</a></li>
   <li><a href="https://women.acm.org/">ACM-W</a></li>
+  <li><a href="http://ladieslearningcode.com">Ladies Learning Code</a></li>
 </ul>
 
 <h4>*More High School Hackathons</h4>
