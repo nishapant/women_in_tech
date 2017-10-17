@@ -16,6 +16,8 @@
   <li><a href="http://womenintechsummit.net/">The Women in Tech Summit</a></li>
   <li><a href="https://www.meetup.com/Chicago-WomenTech/">Chicago Women in Tech</a></li>
   <li><a href="https://www.meetup.com/SanFranciscoWomenandDiversityInTech/">San Francisco Women in Tech</a></li>
+   <li><a href="http://girlsteachinggirlstocode.org/">Girls Teaching Girls to Code</a></li>
+
   <li><a href="https://anitab.org/">Anita Borg</a></li>
   <li><a href="https://chicktech.org/">ChickTech</a></li>
   <li><a href="https://www.awis.org/">Association for Women in Science</a></li>
@@ -47,7 +49,7 @@
   <li><a href="http://pixelhacks.com/">PixelHacks</a></li>
 </ul>
 <br>
-<h4>All-Female Hackathons</h4>
+<h4>All-Women Hackathons</h4>
 <ul>
   <li><a href="https://wichacks.io/">WiC Hacks</a></li>
   <li><a href="http://femmehacks.io/">FemmeHacks</a></li>
@@ -55,6 +57,8 @@
   <li><a href="http://wellesleyhacks.org/">WHacks</a></li>
   <li><a href="http://www.wecodeharvard.com/">wecode</a></li>
   <li><a href="http://www.hackthepatriarchy.com/">Hack the Patriarchy</a></li>
+  <li><a href="https://sospectra.com/">Spectra</a></li>
+   <li><a href=" http://bytehacks.org//">ByteHacks</a></li>
   <li><a href="https://www.eventbrite.com/e/women-who-code-silicon-valley-hackathon-2017-tickets-37983282019">Women Who Code</a></li>
   <li><a href="https://www.ncsudiamondhacks.com/">Diamond Hacks</a></li>
   <li><a href="http://sisterhacks.co/">Sister Hacks</a></li>
