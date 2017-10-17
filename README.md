@@ -61,4 +61,5 @@
   <li><a href="http://athenahacks.com/">Athena Hacks</a></li>
   <li><a href="http://buildher.io/">BUILDher</a></li>
   <li><a href="http://gotechnica.org/">Technica</a></li>
+  <li><a href="http://pearlhacks.com/">Pearl hacks</a></li>
 </ul>
