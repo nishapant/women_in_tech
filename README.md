@@ -58,7 +58,7 @@
   <li><a href="http://www.wecodeharvard.com/">wecode</a></li>
   <li><a href="http://www.hackthepatriarchy.com/">Hack the Patriarchy</a></li>
   <li><a href="https://sospectra.com/">Spectra</a></li>
-   <li><a href=" http://bytehacks.org//">ByteHacks</a></li>
+   <li><a href="http://bytehacks.org/">ByteHacks</a></li>
   <li><a href="https://www.eventbrite.com/e/women-who-code-silicon-valley-hackathon-2017-tickets-37983282019">Women Who Code</a></li>
   <li><a href="https://www.ncsudiamondhacks.com/">Diamond Hacks</a></li>
   <li><a href="http://sisterhacks.co/">Sister Hacks</a></li>
