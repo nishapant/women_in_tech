@@ -30,6 +30,7 @@
   <li><a href="http://airbnb.io/events/taking-flight/">AirBnBNerds Taking Flight</a></li>
   <li><a href="https://women.acm.org/">ACM-W</a></li>
   <li><a href="http://ladieslearningcode.com">Ladies Learning Code</a></li>
+  <li><a href="http://www.writespeakcode.com/">Write/Speak/Code</a></li>
 </ul>
 
 <h3>*More Hackathons</h3>
