@@ -6,7 +6,7 @@
   <li><a href="http://wtp.mit.edu/">Women’s Technology Program at MIT</a></li>
   <li><a href="https://girlswhocode.com/summer-immersion-programs/">Girls Who Code</a></li>
   <li><a href="http://www.blackgirlscode.com/">Black Girls Code</a></li>
-  <li><a href="https://mlh.io/seasons/na-2018/events">Attend a Hackathon</a>*</li>
+  <li><a href="https://mlh.io/seasons/na-2018/events">Attend a Hackathon</a></li>
   <li><a href="https://ghc.anitab.org/">Grace Hopper Conference</a></li>
   <li><a href="http://girlsintech.org/#home">Girls in Tech</a></li>
   <li><a href="https://www.ncwit.org/project/aspireit-k-12-outreach-program">National Center for Women and Information Technology</a></li>
