@@ -1,6 +1,7 @@
 <h1>Women in Tech Resources</h1>
 <p> A collection of resources for girls in tech to get involved including summer programs, meet-ups and hackathons. Feel free to submit a pull request if you find anything new!</p>
-
+<br>
+<h3>Organizations And Programs</h3>
 <ul>
   <li><a href="http://wtp.mit.edu/">Women’s Technology Program at MIT</a></li>
   <li><a href="https://girlswhocode.com/summer-immersion-programs/">Girls Who Code</a></li>
@@ -34,8 +35,8 @@
   <li><a href="http://ladieslearningcode.com">Ladies Learning Code</a></li>
   <li><a href="http://www.writespeakcode.com/">Write/Speak/Code</a></li>
 </ul>
-
-<h3>*More Hackathons</h3>
+<br>
+<h3>Hackathons</h3>
 <h4>High School Hackathons</h4>
 <ul>
   <li><a href="https://www.sohacks.com/">SoHacks</a></li>
@@ -48,7 +49,7 @@
   <li><a href="http://chicagohacks.tech/">ChiHacks</a></li>
   <li><a href="http://pixelhacks.com/">PixelHacks</a></li>
 </ul>
-<br>
+
 <h4>All-Women Hackathons</h4>
 <ul>
   <li><a href="https://wichacks.io/">WiC Hacks</a></li>
