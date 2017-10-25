@@ -34,6 +34,7 @@
   <li><a href="https://women.acm.org/">ACM-W</a></li>
   <li><a href="http://ladieslearningcode.com">Ladies Learning Code</a></li>
   <li><a href="http://www.writespeakcode.com/">Write/Speak/Code</a></li>
+  <li><a href="http://rewritingthecode.org">Rewriting the Code Fellowship</a></li>
 </ul>
 <br>
 <h3>Hackathons</h3>
