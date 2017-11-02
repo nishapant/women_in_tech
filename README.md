@@ -49,6 +49,12 @@
   <li><a href="http://metrohacks.co/">MetroHacks</a></li>
   <li><a href="http://chicagohacks.tech/">ChiHacks</a></li>
   <li><a href="http://pixelhacks.com/">PixelHacks</a></li>
+  <li><a href="https://gunnhacks.com/">GunnHacks</a></li>
+  <li><a href="http://toledohacks.com/">Toledo Hacks</a></li>
+<li><a href="http://hackriverdell.com/">Hack River Dell</a></li>
+  <li><a href="http://hackmcst.tech/">HackMCST</a></li>
+  <li><a href="https://hacktj.org/">HackTJ</a></li>
+  <li><a href="http://linghacks.weebly.com/">LingHacks</a></li>
 </ul>
 
 <h4>All-Women Hackathons</h4>
@@ -67,5 +73,6 @@
   <li><a href="http://athenahacks.com/">Athena Hacks</a></li>
   <li><a href="http://buildher.io/">BUILDher</a></li>
   <li><a href="http://gotechnica.org/">Technica</a></li>
-  <li><a href="http://pearlhacks.com/">Pearl hacks</a></li>
+  <li><a href="http://pearlhacks.com/">Pearl Hacks</a></li>
+   <li><a href="http://shehacks.io/">SheHacks</a></li>
 </ul>
