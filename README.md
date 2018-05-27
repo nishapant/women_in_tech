@@ -3,6 +3,7 @@
 <br>
 <h3>Organizations And Programs</h3>
 <ul>
+  <li><a href="http://gocarrots.org/">Geek Girls Carrots</a></li>
   <li><a href="http://wtp.mit.edu/">Women’s Technology Program at MIT</a></li>
   <li><a href="https://girlswhocode.com/summer-immersion-programs/">Girls Who Code</a></li>
   <li><a href="http://www.blackgirlscode.com/">Black Girls Code</a></li>
@@ -17,8 +18,7 @@
   <li><a href="http://womenintechsummit.net/">The Women in Tech Summit</a></li>
   <li><a href="https://www.meetup.com/Chicago-WomenTech/">Chicago Women in Tech</a></li>
   <li><a href="https://www.meetup.com/SanFranciscoWomenandDiversityInTech/">San Francisco Women in Tech</a></li>
-   <li><a href="http://girlsteachinggirlstocode.org/">Girls Teaching Girls to Code</a></li>
-
+  <li><a href="http://girlsteachinggirlstocode.org/">Girls Teaching Girls to Code</a></li>
   <li><a href="https://anitab.org/">Anita Borg</a></li>
   <li><a href="https://chicktech.org/">ChickTech</a></li>
   <li><a href="https://www.awis.org/">Association for Women in Science</a></li>
@@ -51,7 +51,7 @@
   <li><a href="http://pixelhacks.com/">PixelHacks</a></li>
   <li><a href="https://gunnhacks.com/">GunnHacks</a></li>
   <li><a href="http://toledohacks.com/">Toledo Hacks</a></li>
-<li><a href="http://hackriverdell.com/">Hack River Dell</a></li>
+  <li><a href="http://hackriverdell.com/">Hack River Dell</a></li>
   <li><a href="http://hackmcst.tech/">HackMCST</a></li>
   <li><a href="https://hacktj.org/">HackTJ</a></li>
   <li><a href="http://linghacks.weebly.com/">LingHacks</a></li>
@@ -66,7 +66,7 @@
   <li><a href="http://www.wecodeharvard.com/">wecode</a></li>
   <li><a href="http://www.hackthepatriarchy.com/">Hack the Patriarchy</a></li>
   <li><a href="https://sospectra.com/">Spectra</a></li>
-   <li><a href="http://bytehacks.org/">ByteHacks</a></li>
+  <li><a href="http://bytehacks.org/">ByteHacks</a></li>
   <li><a href="https://www.eventbrite.com/e/women-who-code-silicon-valley-hackathon-2017-tickets-37983282019">Women Who Code</a></li>
   <li><a href="https://www.ncsudiamondhacks.com/">Diamond Hacks</a></li>
   <li><a href="http://sisterhacks.co/">Sister Hacks</a></li>
@@ -74,5 +74,5 @@
   <li><a href="http://buildher.io/">BUILDher</a></li>
   <li><a href="http://gotechnica.org/">Technica</a></li>
   <li><a href="http://pearlhacks.com/">Pearl Hacks</a></li>
-   <li><a href="http://shehacks.io/">SheHacks</a></li>
+  <li><a href="http://shehacks.io/">SheHacks</a></li>
 </ul>
