@@ -1,5 +1,5 @@
 <h1>Women in Tech Resources</h1>
-<p> A collection of resources for girls in tech to get involved including summer programs, meet-ups and hackathons. Feel free to submit a pull request if you find anything new!</p>
+<p> A collection of resources for women in tech to get involved including summer programs, meet-ups and hackathons. Feel free to submit a pull request if you find anything new!</p>
 <br>
 <h3>Organizations And Programs</h3>
 <ul>
